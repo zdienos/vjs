@@ -2,11 +2,11 @@
 Ini adalah Video JS versi 4.3.0, digunakan untuk bisa mengembed video dari google drive, dan support fullscreen dengan otomatis landscape.
 
 ## Cara Penggunaan
-Letakkan kode css tepat di atas </head>
-<link href='https://raw.githubusercontent.com/zdienos/vjs/master/vjs.css' rel='stylesheet'/>
+Letakkan kode css tepat di atas </ head>
+< link href='https://raw.githubusercontent.com/zdienos/vjs/master/vjs.css' rel='stylesheet'/>
 
-Kemudian scroll ke bawah, letakkan kode berikut, tepat di atas </body>
-<script src='https://raw.githubusercontent.com/zdienos/vjs/master/vjs.js'/> 
+Kemudian scroll ke bawah, letakkan kode berikut, tepat di atas </ body>
+< script src='https://raw.githubusercontent.com/zdienos/vjs/master/vjs.js'/> 
 
 ## Menambahkan Postingan
 Buat postingan seperti biasa, dan untuk menambahkan video player ini, pilih tab HTML, lalu paste kode berikut
